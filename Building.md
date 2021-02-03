@@ -24,7 +24,7 @@ pacman -Su git wget make tar unzip zip mingw-w64-x86_64-gcc mingw-w64-x86_64-gdb
 
 Install [Homebrew](https://brew.sh/), and install build dependencies.
 ```bash
-brew install git wget cmake autoconf automake libtool jq python
+brew install git wget cmake autoconf automake libtool jq python pkg-config
 ```
 
 ### Linux
